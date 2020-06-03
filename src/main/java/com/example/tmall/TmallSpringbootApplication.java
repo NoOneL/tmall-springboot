@@ -1,4 +1,4 @@
-package com.example.tmall_springboot;
+package com.example.tmall;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
